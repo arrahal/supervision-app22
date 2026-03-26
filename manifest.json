@@ -1,11 +1,11 @@
 {
-  "name": "نظام المشرف التربوي",
-  "short_name": "مشرف تربوي",
+  "name": "نظام الإشراف التربوي",
+  "short_name": "إشراف تربوي",
   "description": "تطبيق إدارة الإشراف التربوي - مؤسسة زاكورة للتعليم - INDH CHICHAOUA",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#1a3a5c",
-  "theme_color": "#1a3a5c",
+  "background_color": "#01a35c",
+  "theme_color": "#01a35c",
   "orientation": "portrait-primary",
   "lang": "ar",
   "dir": "rtl",
@@ -14,38 +14,38 @@
       "src": "icons/icon-72.png",
       "sizes": "72x72",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
       "src": "icons/icon-96.png",
       "sizes": "96x96",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
       "src": "icons/icon-128.png",
       "sizes": "128x128",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "maskable"
     }
   ],
   "categories": ["education", "productivity"],
   "shortcuts": [
     {
       "name": "الزيارات الميدانية",
-      "short_name": "زيارة",
+      "short_name": "زيارات",
       "description": "تسجيل زيارة جديدة",
       "url": "/index.html#visits",
       "icons": [{ "src": "icons/icon-96.png", "sizes": "96x96" }]
